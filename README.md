@@ -1,15 +1,15 @@
-# CSS TextMate Language Grammar #
+[a]: sass-lang.com/
+[b]: https://github.com/dustinwilson/CSS-Language-Grammar
 
-This is an alternate CSS language grammar for TextMate 2. It is designed to be more extensible and allow other language grammars such as SCSS to be built upon it. The language grammar is specifically for TextMate 2. It will not work in TextMate 1 or other programs which have borrowed TextMate's language grammar system. TextMate 2 has new features this language grammar takes advantage of.
+# SCSS TextMate Bundle #
+
+This is an alternate [SCSS][a] TextMate bundle for TextMate 2. It is a rather barebones bundle for my own purposes. Its language grammar utilizes and requires my [CSS language grammar][b] to function. This bundle is specifically for TextMate 2. It will not work in TextMate 1 or other programs which have borrowed TextMate's bundling system.
+
+## Features ##
+
+* Syntax highlights SCSS.
+* Automatically saves CSS files in the same location as the SCSS file when SCSS files are saved using `⌘S`.
 
 ## Installation ##
 
-Installation of the language grammar is simple.
-
-1. Open TextMate 2.
-2. Click on the Bundles menu and go to *Edit Bundles...*.
-3. In the left column click on *CSS*. Another column of selections appears immediately to the right of the left column.
-4. In that new column click on *Language Grammars*. Another column with a single selection appears immediately to the right of the column.
-5. Click on *CSS* in the new column.
-6. Copy and paste the contents of the *css.tmlang* language grammar provided into the input area below and press `⌘S` to save. It will replace the default language grammar.
-7. Restart TextMate 2 for the language grammar to apply.
+Double-click the bundle to install. TextMate will handle the rest.

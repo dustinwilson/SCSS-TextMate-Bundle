@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>qhfgva@qhfgvajvyfba.pbz</string>
+	<key>contactName</key>
+	<string>Dustin Wilson</string>
+	<key>description</key>
+	<string>Support for &lt;a href="http://sass-lang.com/"&gt;SCSS&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>SCSS</string>
+	<key>uuid</key>
+	<string>29986599-F93C-40C2-B954-A315E2AF8105</string>
+</dict>
+</plist>
